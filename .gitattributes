@@ -2,3 +2,5 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
 models/vgg16.pth filter=lfs diff=lfs merge=lfs -text
 models/vgg16.mar filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+image_classifier.pkg filter=lfs diff=lfs merge=lfs -text
