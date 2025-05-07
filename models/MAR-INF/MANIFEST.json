@@ -1,0 +1,12 @@
+{
+  "createdOn": "04/05/2021 21:42:12",
+  "runtime": "python",
+  "model": {
+    "modelName": "vgg16",
+    "serializedFile": "vgg16-397923af.pth",
+    "handler": "vgg_handler.py",
+    "modelFile": "model.py",
+    "modelVersion": "1.0"
+  },
+  "archiverVersion": "0.3.0"
+}
